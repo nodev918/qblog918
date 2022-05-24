@@ -1,0 +1,75 @@
+*{
+    color:grey
+}
+.blog-container{
+    position: relative;
+    top:200px;
+    height:calc(100vh - 200px);
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container{
+    height:600px;
+    width:1000px;
+    background-color: rgb(255, 255, 255);
+    
+    z-index:5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    height:240px;
+    width:240px;
+    background-color: rgb(240, 237, 237);
+    margin: 16px 40px 16px 40px;
+    box-shadow: 0 0 4px rgb(134, 133, 133);
+    border:1px solid rgb(224, 223, 223);
+    border-radius: 5px;
+}
+.card:hover{
+    border:1px solid grey;
+}
+
+.card-title{
+    width:100%;
+    margin-left:8px;
+    height:40px;
+}
+
+.card-content{
+    width:100%;
+    height:160px;
+    background-color: white;
+}
+
+.card-footer{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-footer-box{
+    height:40px;
+    width:160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.card-footer-box div{
+    display: flex;
+    align-items: center;
+}
+.card-footer-box i{
+    margin-right:6px;
+}
+.card-footer-box i:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.home-container{
+    position: relative;
+    top:200px;
+    height:calc(100vh - 200px);
+    background-color: darksalmon;
+}

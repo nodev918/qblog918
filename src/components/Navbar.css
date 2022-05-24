@@ -1,0 +1,95 @@
+.header{
+  position: fixed;
+  width: 100%;
+  z-index:999;
+}
+.mynav{
+  color:white;
+  display: flex;
+  justify-content: space-between;
+  background-color: dodgerblue;
+  height: 160px;
+}
+.nav{
+  display: flex;
+  flex-direction: row;
+}
+.nav li{
+  padding:10px;
+  height:160px;
+}
+.nav li:hover{
+  background-color: rgb(13, 77, 141);
+  cursor:default;
+}
+
+.logo{
+  font-weight: bold;
+  line-height:90px;
+  padding:10px;
+  font-size:60px;
+}
+.logo:hover{
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.sublinks1{
+  display: flex;
+  flex-direction: column;
+  visibility: hidden; 
+  margin-top:10px;
+}
+.sublinks2{
+  display: flex;
+  flex-direction: column;
+  visibility: hidden; 
+  margin-top:10px;
+}
+.sublinks3{
+  display: flex;
+  flex-direction: column;
+  visibility: hidden; 
+  margin-top:10px;
+}
+.hidden{
+  visibility:hidden;
+}
+.show{
+  visibility:visible;
+  color:red
+}
+
+.mynav2{
+  background-color: rgb(124, 177, 230);
+  display: flex;
+  justify-content: center;
+  height:40px;
+}
+
+.nav2{
+  color:white;
+  display:flex;
+  justify-content: space-between;
+  margin:0 24px 0 24px;
+  width:500px;
+}
+.nav2 li {
+  height:40px;
+  line-height: 40px;
+  width:100px;
+  text-align: center;
+}
+.nav2 li:hover{
+  cursor: pointer;
+  background-color: rgb(13, 77, 141);
+  text-decoration: none;
+}
+.link-css2{
+  color:white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.link-css2:hover{
+  text-decoration: none;
+}
