@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/qblog918/static/css/main.6b71352c.chunk.css",
-    "main.js": "/qblog918/static/js/main.e1e24d3d.chunk.js",
-    "main.js.map": "/qblog918/static/js/main.e1e24d3d.chunk.js.map",
-    "runtime-main.js": "/qblog918/static/js/runtime-main.cec8989c.js",
-    "runtime-main.js.map": "/qblog918/static/js/runtime-main.cec8989c.js.map",
-    "static/js/2.b0322cac.chunk.js": "/qblog918/static/js/2.b0322cac.chunk.js",
-    "static/js/2.b0322cac.chunk.js.map": "/qblog918/static/js/2.b0322cac.chunk.js.map",
-    "static/js/3.f0a23162.chunk.js": "/qblog918/static/js/3.f0a23162.chunk.js",
-    "static/js/3.f0a23162.chunk.js.map": "/qblog918/static/js/3.f0a23162.chunk.js.map",
+    "main.css": "/qblog918/static/css/main.51f93636.chunk.css",
+    "main.js": "/qblog918/static/js/main.8b2de96a.chunk.js",
+    "main.js.map": "/qblog918/static/js/main.8b2de96a.chunk.js.map",
+    "runtime-main.js": "/qblog918/static/js/runtime-main.44e3af82.js",
+    "runtime-main.js.map": "/qblog918/static/js/runtime-main.44e3af82.js.map",
+    "static/js/2.6634b157.chunk.js": "/qblog918/static/js/2.6634b157.chunk.js",
+    "static/js/2.6634b157.chunk.js.map": "/qblog918/static/js/2.6634b157.chunk.js.map",
+    "static/js/3.7e20c623.chunk.js": "/qblog918/static/js/3.7e20c623.chunk.js",
+    "static/js/3.7e20c623.chunk.js.map": "/qblog918/static/js/3.7e20c623.chunk.js.map",
     "index.html": "/qblog918/index.html",
-    "static/css/main.6b71352c.chunk.css.map": "/qblog918/static/css/main.6b71352c.chunk.css.map",
-    "static/js/2.b0322cac.chunk.js.LICENSE.txt": "/qblog918/static/js/2.b0322cac.chunk.js.LICENSE.txt",
+    "static/css/main.51f93636.chunk.css.map": "/qblog918/static/css/main.51f93636.chunk.css.map",
+    "static/js/2.6634b157.chunk.js.LICENSE.txt": "/qblog918/static/js/2.6634b157.chunk.js.LICENSE.txt",
     "static/media/RDCV.ceba4d0b.PNG": "/qblog918/static/media/RDCV.ceba4d0b.PNG",
     "static/media/ig1.cc70e013.png": "/qblog918/static/media/ig1.cc70e013.png",
     "static/media/pho.0523b582.png": "/qblog918/static/media/pho.0523b582.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cec8989c.js",
-    "static/js/2.b0322cac.chunk.js",
-    "static/css/main.6b71352c.chunk.css",
-    "static/js/main.e1e24d3d.chunk.js"
+    "static/js/runtime-main.44e3af82.js",
+    "static/js/2.6634b157.chunk.js",
+    "static/css/main.51f93636.chunk.css",
+    "static/js/main.8b2de96a.chunk.js"
   ]
 }
